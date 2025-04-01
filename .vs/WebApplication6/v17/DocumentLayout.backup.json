@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|c:\\users\\naveen\\source\\repos\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|c:\\users\\naveen\\source\\repos\\webapplication6\\webapplication6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|solutionrelative:webapplication6.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|c:\\users\\naveen\\source\\repos\\webapplication6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|c:\\users\\naveen\\source\\repos\\webapplication6\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|c:\\users\\naveen\\source\\repos\\webapplication6\\controllers\\stockcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|solutionrelative:controllers\\stockcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|c:\\users\\naveen\\source\\repos\\webapplication6\\mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CD9F79-7A02-48E8-BC12-3FA42921CB0B}|WebApplication6.csproj|solutionrelative:mappers\\commentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 251,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication6.http",
+              "DocumentMoniker": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\WebApplication6.http",
+              "RelativeDocumentMoniker": "WebApplication6.http",
+              "ToolTip": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\WebApplication6.http",
+              "RelativeToolTip": "WebApplication6.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-24T10:52:36.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:40:50.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:38:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Controllers\\StockControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockControllers.cs",
+              "ToolTip": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Controllers\\StockControllers.cs",
+              "RelativeToolTip": "Controllers\\StockControllers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:37:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:24:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentMappers.cs",
+              "DocumentMoniker": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Mappers\\CommentMappers.cs",
+              "RelativeDocumentMoniker": "Mappers\\CommentMappers.cs",
+              "ToolTip": "C:\\Users\\Naveen\\source\\repos\\WebApplication6\\Mappers\\CommentMappers.cs",
+              "RelativeToolTip": "Mappers\\CommentMappers.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:13:10.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
